@@ -5,3 +5,6 @@ Hack Reactor Prep
 
 **Module 0:**
 * completed April 25, 2017
+
+**Module 1:**
+* Know the Easy Stuff Cold ✅
